@@ -19,8 +19,8 @@ In order to get result reports, open-source Serenity tool has been integrated. R
 After updating Serenity dependencies in pom.xml file to the latest version, it has been detected that report is not registering passed results. This is a known issue by Serenity community and would need further analysis. For more details: https://github.com/serenity-bdd/serenity-core/issues/1260
 
 NOTES: During the time that I have been working on this assignment, I have been facing some issues related to website under test: 
-  •	Very frequently, when I was executing my feature, I got flights at the prize of 0€ for every date. Refer to attached recording “0PrizeWeb” for evidence. I could not retrieve real prizes after this happened in a long while.  
-  •	Very frequently, I got a message indicating that a booking with the same data had already been done, although I never completed any booking. Refer to attached image “SameBooking.JPG” for evidence.  
+  •	Very frequently, when I was executing my feature, I got flights at the prize of 0€ for every date. I could not retrieve real prizes after this happened in a long while.  
+  •	Very frequently, I got a message indicating that a booking with the same data had already been done, although I never completed any booking.   
 
 
 
