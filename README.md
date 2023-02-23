@@ -1,5 +1,5 @@
 # SeleniumCucumberSerenityTestingFW
-Testing framework based on Selenium, Cucumber and JUnit executed with Maven and that creates Serenity reports.
+Testing framework based on Selenium, Cucumber and JUnit executed with Maven that creates Serenity reports.
 
 The feature DeclinePayment is tested. It books a flight for three passengers using an invalid credit card and checks that payment is declined. Data provided to implement this test: 
 
